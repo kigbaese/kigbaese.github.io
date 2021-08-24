@@ -1,1 +1,1 @@
-# kigbaese.github.io
+Go to [Francium](https://kigbaese.github.io/Francium)
